@@ -16,9 +16,9 @@ if($freq<75){
         $notarec=readline("Digite a nota da recuperação: ");
         $medfinal=($med+$notarec);
         if($medfinal>5){
-            echo "Aprovado na recuperação";
+            echo "Aprovadinho na recuperacaozinha";
         }else{
-            echo "Repro  vado, nos vemos ano que vem";
+            echo "Reprovadinho, nos vemos em fevereiro";
         }
     }
 }
